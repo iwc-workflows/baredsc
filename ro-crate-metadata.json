@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2023-12-05T16:19:14.974403",
+            "datePublished": "2024-03-06T17:17:46.226835",
             "hasPart": [
                 {
                     "@id": "baredSC-1d-logNorm.ga"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/baredsc",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -147,7 +147,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.18"
+            "engineVersion": ">=0.75.21"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
@@ -174,7 +174,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/baredsc",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#test_baredSC-2d-logNorm_1",
@@ -211,7 +211,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.18"
+            "engineVersion": ">=0.75.21"
         }
     ]
 }
